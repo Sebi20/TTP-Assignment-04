@@ -1,0 +1,17 @@
+.first{
+    display: flex;
+    margin-left: 50%;
+    
+}
+
+.btn1{
+    background-color: green;
+}
+
+.btn2{
+    background-color: red;
+}
+
+form{
+    margin: 100px;
+}
